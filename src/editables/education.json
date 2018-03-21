@@ -1,7 +1,7 @@
 [{
   "school": "University of California, Berkeley",
   "school_link": "https://berkeley.edu",
-  "year": "August 2015 - May 2019",
+  "year": "August 2017 - May 2020",
   "sections" : [
   	{
   		"section_title": "",
@@ -9,11 +9,11 @@
   	},
   	{
   		"section_title": "Computer Science GPA: ",
-  		"section_content": "3.9"
+  		"section_content": "3.5"
   	},
   	{
   		"section_title": "Relevant Coursework: ",
-  		"section_content": "Data Structures, Algorithms, AI, ML (grad), Databases, Real Analysis, Abstract Analysis, Linear Algebra, Abstract Algebra, Deep NN (grad), Probability & Random Processes, Randomness and Computation (grad), Optimization Models and Applications (grad)"
+  		"section_content": "Ruby on Rails, Introduction to Computer Programming (Python), Foundations of Data Science, Data & Decisions, Designing Information Devices and Systems I"
   	}
   ]
 }]

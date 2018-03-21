@@ -2,47 +2,47 @@
   "section_title": "Work Experience",
   "section_data": [
     {
-      "header": "Facebook",
-      "header_link": "https://facebook.com",
-      "title": "Software Engineer Intern (Incoming)",
-      "second_right_align": "August 2018 - December 2018",
-      "first_right_align": "Menlo Park, California",
+      "header": "Microsoft",
+      "header_link": "https://microsoft.com",
+      "title": "Strategy Consultant",
+      "second_right_align": "Jan 2018 - Present",
+      "first_right_align": "San Francisco Bay Area, California",
       "details": [
-        "Incoming!"
+        "Designed and implemented strategy to find local Bay Area partnerships for Microsoft initiative to increase digital literacy amongst adults that will be launched Summer 2018, advised under Director of Technology/Civic Innovation."
       ]
     },
     {
-      "header": "Bridgewater Associates",
-      "header_link": "https://bridgewater.com",
-      "title": "Investment Engineer Intern (Incoming)",
-      "second_right_align": "June 2018 - August 2018",
-      "first_right_align": "Westport, Connecticut",
-      "details": [
-        "Incoming!"
-      ]
-    },
-    {
-      "header": "Neurotrack",
-      "header_link": "https://neurotrack.com/",
-      "title": "Machine Learning Research",
-      "second_right_align": "May 2017 - December 2017",
-      "first_right_align": "Redwood City, California",
-      "details": [
-        "Analyzed feature space with tools such as SVD, PCA and Spectral Clustering. Analyzed quality of the data by calculating variance of the eye-gaze plots clustered by locations weighted by pupil diameter variance. Integrated saccade orientation related features from other research papers.", 
-        "Created a presentation with ROC curves, Mesh Grids, Cross-Validation charts and Histograms – beginning the process to publish results.",
-        "Researched and subsequently extracted features from the 2012 Zola Study dataset with a fixation-saccade algorithm from 100+ GB .eyd binary files. Created infrastructure to store data into .json files - required optimized processing since .eyd files could not be stored in memory.",
-        "Used bootstrapped learning to train Naïve Bayes, SVM and Logistic Regression (used AdaBoost) models, integrated extracted features into existing consumer data and built Django API endpoints to obtain relevant data and designed models to add comments, metadata and scores."
-      ]
-    },
-    {
-      "header": "Bitwage",
-      "header_link": "https://bitwage.com/",
-      "title": "Software Engineer Internship",
-      "second_right_align": "June 2016 - August 2017",
+      "header": "Hustle",
+      "header_link": "https://hustle.com",
+      "title": "Product Development Extern",
+      "second_right_align": "Jan 2018",
       "first_right_align": "San Francisco, California",
       "details": [
-        "Full stack web development with Google App Engine using a Flask framework – extensive coding with Python, JavaScript, and Jinja2", 
-        "Integrated API’s from 10 bit exchanges (used OAuth2 authentication) and designed 3 RESTful API endpoints for various currency functionalities including querying specific data and creating company profiles – worked directly with reps from each company w/ an API"
+        "
+Externs observe the client success team's interaction with new clients, sit in on client onboardings and team strategy meetings and meet with other teams and support staff.
+Given individual projects on product review and creating help center articles (help.hustle.life)
+Sat in on Salesforce integration training"
+      ]
+    },
+    {
+      "header": "Knodemy",
+      "header_link": "https://knodemy.com/",
+      "title": "IT Support & Development Intern",
+      "second_right_align": "July 2016 - September 2016",
+      "first_right_align": "Livermore, California",
+      "details": [
+        "Worked on Hackathon Platform Team; created web pages for Hackathon Platform site using HTML/CSS and programmed software architecture using Python and Django framework
+Taught HTML/CSS, Robotics, and Entrepreneurship classes to 4th-8th graders"
+      ]
+    },
+    {
+      "header": "Team Leader",
+      "header_link": "https://bitwage.com/",
+      "title": "Galileo Learning",
+      "second_right_align": "July 2016 - September 2016",
+      "first_right_align": "San Francisco, California",
+      "details": [
+        "Built team spirit, developed individual relationships with campers and parents, assisted instructors in the classroom and oversaw campers’ experience with technology and innovation"
       ]
     }
   ]
@@ -51,76 +51,60 @@
   "section_title": "Leadership Experience",
   "section_data": [
     {
-      "header": "UC Berkeley UGBA 198 (ML for Business Decisions)",
-      "header_link": "https://ugba198.com",
-      "title": "Co-founder and Instructor",
+      "header": "Dougherty Valley High School DECA",
+      "header_link": "https://dvdeca.org",
+      "title": "President",
       "second_right_align": "",
-      "first_right_align": "September 2017 - Present",
+      "first_right_align": "Fall 2013 - Spring 2017",
       "details": [
-        "Cofounded with one other student one of the most popular ML courses at Berkeley (200+ signups).",
-        "Responsibilities included content generation, lecturing, and facilitating"
+        "Led the second largest DECA chapter in the state of California, with over 200 members"
+        "Collaborated with chapter presidents and state officers to host 3 mini conferences for over 150 students"
+        "DVHS DECA BOOST Program (Fall 2016-2017)
+        Co-created BOOST, a program that offers 20+ hours of tuition over the course of 13 weeks in a classroom setting; program also host 3 miniconferences, where middle school students put the skills gained to use in a competition setting.
+        First year logistics: 223 applicants, 75 accepted; $26,250 gross revenue put towards subsidizing International Competition costs"
+        "Competitor (Fall 2013 – Spring 2017)
+        Participated in the 2017 International Career Development Conference"
       ]
     },
     {
-      "header": "Blueprint, Technology for Nonprofits",
-      "header_link": "https://calblueprint.org",
-      "title": "Project Leader and Project Developer",
+      "header": "International Business Alliance Program",
+      "header_link": "https://lichange.org",
+      "title": "Nigerian Partnership Chair",
       "second_right_align": "",
-      "first_right_align": "January 2017 - Present",
+      "first_right_align": "Fall 2014 - Spring 2015",
       "details": [
-        "Veterans 360 – Ruby on Rails + React / React Native, web and mobile application allowing veterans to connect with other veterans and resources in their area. Lead a team of 4 individuals in building the application, reviewing pull requests and assigning sprint tasks. ",
-        "Roots of Success - Developed using Ruby on Rails, React.js - created a dynamic and scalable web platform that allowed the NPO to upload course content and allowed their target demographic to take the uploaded course tracking progress and course completion. Implemented features include student and admin course dashboards, draggable components, interactive teaching slides, ability to add audio and more",
-        "Both available @ github.com/jasonbaoz"
+        "Raised $5,000 for struggling businesses in Bauchi, Nigeria to help build local infrastructure and provide basic needs to small business owners"
+        "Responsibilities included facilitating communication between Nigerian partner and creating/managing team website (dvhsibap.org)"
       ]
-    }, 
+    },
     {
-      "header": "UC Berkeley CS 189 / 289A",
-      "header_link": "https://eecs189.org",
-      "title": "Course Tutor and Reader",
+      "header": "Tri-Valley Youth Court",
+      "header_link": "https://trivalleyyouthcourt.org",
+      "title": "Advocate",
       "second_right_align": "",
-      "first_right_align": "August 2017 - Present",
+      "first_right_align": "Summer 2015 - Spring 2017",
       "details": [
-        "Lead office hours and graded homeworks & tests for the undergraduate and graduate combined machine learning course at U.C. Berkeley"
+        "Prepared one case a month by meeting with client, defending them in official court trial and recommending sanctions to jury"
+        "Represented over 25 juvenile delinquents and helped them to overcome the consequences of their offenses through peer support"
+
+
       ]
-    }, 
+    },
+  ]
+},
+
+{
+  "section_title": "Additional Experience",
+  "section_data": [
     {
       "header": "Valley Consulting Group",
       "header_link": "https://vcg.berkeley.edu",
-      "title": "Founder",
+      "title": "Contract Consultant",
       "second_right_align": "",
-      "first_right_align": "January 2016 - Present",
+      "first_right_align": "January 2018 - Present",
       "details": [
-        "Justin made the website"
-      ]
-    },
-    {
-      "header": "Eagle Scout",
-      "header_link": "https://scouting.org",
-      "title": "",
-      "second_right_align": "",
-      "first_right_align": "August 2005 - December 2014",
-      "details": [
-        "Eagle Project: On My Feet (Web) – PHP/Vanilla JS/HTML, API’s including Google Maps, Google Directions etc. – included 1400 resources obtained through extensive DOM scraping (xPath, cURL) and crowd-sourcing – attracted over 400 weekly users at peek by 3 separate homeless organizations around the Bay Area. Gave several workshops on site functionality, teaching intake workers how to add, edit resource etc.",
-        "Available @ github.com/jasonbaoz/on-my-feet"
-      ]
-    }
-  ]
-},
-{
-  "section_title": "Other Experience",
-  "section_data": [
-    {
-      "header": "Undergraduate Research",
-      "header_link": "",
-      "title": "",
-      "second_right_align": "",
-      "first_right_align": "January 2017 - May 2017",
-      "details": [
-        "Worked with Professor Josh Hug to utilize Machine Learning libraries to intelligently analyze Congressional transcripts (SPCA), annotated and cleaned large CSV files with Pandas to make them more usable and to add relevant meta data to the files. Other tech includes Scipy, Numpy etc."
-      ]
-    }
-  ]
-},
+        "Consultant at Valley Consulting Group at UC Berkeley dedicated to solving problems for various companies, such as Microsoft, Google, Airbnb, Square, etc."
+        "Worked recently with Microsoft in the aspects of accessibility tech and initiatives"
 {
   "section_title": "Skills and Interests",
   "section_data": [
